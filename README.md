@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-<p align='center'>
-    <a href="https://twitter/harshith1304"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://instagram/harshith_pabbati"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/harshithpabbati/"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/linkedin.png?raw=true"></a>
-</p>
+![](https://komarev.com/ghpvc/?username=harshithpabbati)
 
 I am Harshith Pabbati, an active member at [amFOSS](https://amfoss.in).
 
@@ -14,3 +10,10 @@ I am Harshith Pabbati, an active member at [amFOSS](https://amfoss.in).
 - 😄 Pronouns: he/him/his
 
 ![Harshith Pabbati's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshithpabbati&show_icons=true&hide_border=true)
+
+
+<p align='center'>
+    <a href="https://twitter/harshith1304"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://instagram/harshith_pabbati"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harshithpabbati/"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/linkedin.png?raw=true"></a>
+</p>
