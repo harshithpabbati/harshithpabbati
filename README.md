@@ -9,8 +9,10 @@ I am Harshith Pabbati, an active member at [amFOSS](https://amfoss.in).
 - 📫 How to reach me: Send an email to me at [pabbatiharshith@gmail.com](mailto:pabbatiharshith@gmail.com) or ping me on Telegram [@harshithpabbati](https://t.me/harshithpabbati).
 - 😄 Pronouns: he/him/his
 
-![Harshith Pabbati's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshithpabbati&show_icons=true&hide_border=true)
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=harshithpabbati&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshithpabbati&hide=css,java,html&theme=tokyonight">
+</p>
 
 <p align='center'>
     <a href="https://twitter/harshith1304"><img height="30" src="https://github.com/harshithpabbati/harshithpabbati/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
