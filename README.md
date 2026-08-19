@@ -1,34 +1,39 @@
-### 👋 Hi, I'm Harshith!
+# 👋 Hi, I'm Harshith
 
 ![](https://komarev.com/ghpvc/?username=harshithpabbati)
 
-I'm a software engineer passionate about building impactful products, especially in open source, startups, and AI-powered platforms. I love remote work, learning new things, and collaborating with great teams.
+I'm a software engineer interested in **real-time systems, networking, performance, and developer tools**.
 
----
+I enjoy working close to the systems layer, building things that are fast, reliable, and easy for other developers to use.
 
-## 🚀 What I Do
+## 🚀 What I've Been Working On
 
-- **Currently:** MSCS @ Stony Brook University (Fall 2025)
-- **Previously:**  
-  - **Aragon.ai:** Enhanced AI photo platform with 50% performance optimization, new product features, and analytics dashboards driving improved conversions and user experience.  
-  - **Daily:** Built reference apps, video tools, and internal dashboards using Daily’s APIs (e.g., [daily-studio.vercel.app](https://daily-studio.vercel.app))
-  - **Open source:** Contributed to Wikimedia, GraphQL (Linux Foundation), Public Lab (GSoC), and more
+* **Cloudflare:** Worked on the Realtime team on **SCTP, WebRTC, DataChannels, and SFU infrastructure**, including low-latency packet routing and performance optimization.
+* **Daily.co:** Built real-time video products, developer-facing reference applications, and internal tools around WebRTC and live streaming APIs.
+* **Aragon.ai:** Worked on web performance, product features, and analytics, including reducing page load times and improving conversion insights.
+* **Open source:** Contributed to projects and communities including **Wikimedia, GraphQL, Public Lab**, and others through programs such as GSoC and Linux Foundation Mentorship.
 
----
+## 🛠️ Technologies
 
-## 🛠️ Skills
+**Languages:** Go, Rust, TypeScript, JavaScript, Python, SQL
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Frameworks:** React, Next.js, Node.js
-- **Other:** API design, performance, analytics, AI integrations
+**Systems & Networking:** WebRTC, SCTP, DataChannels, SFU, Distributed Systems, Performance Optimization
 
----
+**Backend:** Node.js, Go, Django, PostgreSQL, REST, GraphQL, gRPC
+
+**Frontend:** React, Next.js, React Native
+
+## 🎓 Currently
+
+**MS in Computer Science @ Stony Brook University**
+
+Previously: Software Engineer at **Daily.co** and **Aragon.ai**, and Software Engineer Intern on **Cloudflare's Realtime team**.
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/harshithpabbati/)
-- [Website](https://harshithpabbati.com)
+* [LinkedIn](https://www.linkedin.com/in/harshithpabbati/)
+* [Website](https://harshithpabbati.com)
 
 ---
 
-_Always happy to connect & chat about code, open source, or remote work!_
+*Always interested in systems, networking, open source, and building things that make developers' lives easier.*
