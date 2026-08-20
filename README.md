@@ -15,13 +15,10 @@ I enjoy working close to the systems layer, building things that are fast, relia
 
 ## 🛠️ Technologies
 
-**Languages:** Go, Rust, TypeScript, JavaScript, Python, SQL
-
-**Systems & Networking:** WebRTC, SCTP, DataChannels, SFU, Distributed Systems, Performance Optimization
-
-**Backend:** Node.js, Go, Django, PostgreSQL, REST, GraphQL, gRPC
-
-**Frontend:** React, Next.js, React Native
+- **Languages:** Go, Rust, TypeScript, JavaScript, Python, SQL
+- **Systems & Networking:** WebRTC, SCTP, DataChannels, SFU, Distributed Systems, Performance Optimization
+- **Backend:** Node.js, Go, Django, PostgreSQL, REST, GraphQL, gRPC
+- **Frontend:** React, Next.js, React Native
 
 ## 🎓 Currently
 
